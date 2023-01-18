@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/bin/Debug/net6.0/tip-donusumleri.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/refint/tip-donusumleri.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/tip-donusumleri.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/tip-donusumleri/obj/Debug/net6.0/ref/tip-donusumleri.dll
